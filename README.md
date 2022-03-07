@@ -1,6 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Ghoul3r;Grey+Hat+Hacker;Python+Hacking+Scripter;">
 <h1 align="center">Ghoul3r
-<h3 align="center">no script kiddies allowed lol.</h3>
   
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
