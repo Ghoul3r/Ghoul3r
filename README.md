@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Ghoul3r;Grey+Hat+Hacker;Python+Hacking+Scripter;">
-<h1 align="center">Ghoul3r
   
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  
 <h2>About me</h2>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Ghoul3r&label=Profile Visitors&color=001eff&style=flat" alt="Ghoul3r" /> 
