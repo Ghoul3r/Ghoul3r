@@ -10,8 +10,6 @@ _______________________________
 _______________________________
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=GHOUL3R&show_icons=true&theme=radical)
-_______________________________
-
 
   </html>
 </html>
