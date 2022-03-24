@@ -8,7 +8,7 @@ _______________________________
 _______________________________
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=GHOUL3R&show_icons=true&theme=radical)
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=3kh0&theme=dark" alt="3kh0" /></p><br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghoul3r&theme=dark" alt="Ghoul3r" /></p><br>
 
 
 
