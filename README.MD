@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Ghoul3r;Ethical+Hacker;Game+Dev;Self+Taught;">
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Machorius;Ethical+Hacker;Game+Dev;Self+Taught;">
 
 
 Machorius is a 13 year old self-taught game dev, ethical hacker and programmer from a village in Croatia. He lives in the U.S.A. with his family. Most of his programs are written in Python as it was his first programming language to learn and is his favorite by far. If you have any questions, you can use the issues tab on any project and he is quick to answer them. Pull requests are always welcome.
