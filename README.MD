@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Machorius;Ethical+Hacker;Self+Taught+Game+Dev;">
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Machorius;i+use+arch+btw.;Self+Taught+Game+Dev;">
 
 
 Machorius is a 14 year old self-taught game dev and programmer from a village in Croatia. He lives in the U.S.A. with his family. He was introduced to programming and engineering at an early age and can now make complex and intricate programs in a few different languages.
@@ -23,7 +23,6 @@ _______________________________
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) 
 _______________________________
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MACHORIUS&show_icons=true&theme=radical)
