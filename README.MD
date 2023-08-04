@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Machorius;i+use+arch+btw.;Self+Taught+Game+Dev;">
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=i+use+arch+btw.;also,;">
 
 Machorius is a 14 year old self-taught game dev and programmer from a village in Croatia. He lives in the U.S.A. with his family. He was introduced to programming and engineering at an early age and can now make complex and intricate programs in a few different languages.
 
