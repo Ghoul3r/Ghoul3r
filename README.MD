@@ -1,8 +1,4 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=i+use+arch+btw.;also,;">
-
-Machorius is a 14 year old self-taught game dev and programmer from a village in Croatia. He lives in the U.S.A. with his family. He was introduced to programming and engineering at an early age and can now make complex and intricate programs in a few different languages.
-
-
 _______________________________
 <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" />   <img src="https://img.shields.io/badge/OS-macOS-lightgrey/?logo=apple" alt="os"> <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">   <img src="https://img.shields.io/badge/Editor-Sublime%20Text-blue/?logo=sublimetext&logoColor=warning&color=orange" alt="editor2">   <img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954" alt="music">  <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">   <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">   <img alt="Google" src="https://img.shields.io/badge/Uses-Google-blue/?logo=google&logoColor=ff1b2d&color=ff1b2d">
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) 
